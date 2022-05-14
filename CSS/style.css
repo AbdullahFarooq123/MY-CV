@@ -1,0 +1,140 @@
+.image-portion {
+  display: block;
+  text-align: center;
+  padding-top: 4.375em;
+}
+
+.Profile-Picture {
+  border: 3px solid white;
+  border-radius: 236px;
+}
+
+.info-portion {
+  color: white;
+  margin: 50px 0 50px 50px;
+}
+
+.icons {
+  width: 6%;
+  float: left;
+  margin-right: 5px;
+}
+
+.outer-progress-div {
+  width: 80%;
+  background-color: white;
+  border-radius: 100px;
+  margin-bottom: 10px;
+}
+
+.inner-progress-div {
+  height: 8px;
+  background-color: #548CFF;
+  border-radius: 100px;
+}
+
+.filled-circle {
+  width: 40%;
+  display: inline-block;
+  border-style: dotted;
+  border-bottom-color: #548CFF;
+  border-top-width: 0;
+  border-left-width: 0;
+  border-right-width: 0;
+  border-bottom-width: 15px;
+}
+
+.left-pane {
+  position: relative;
+  display: inline-block;
+  background-color: #203239;
+  width: 25em;
+  height: inherit;
+  margin-bottom: 8px;
+}
+
+.right-pane {
+  position: absolute;
+  display: inline-block;
+  left: 26em;
+  width: 60em;
+  height: inherit;
+  margin-right: 8px;
+  margin-left: 10px;
+}
+
+.top-pane {
+  width: 99%;
+  height: 13em;
+  background-color: lightgrey;
+  text-align: center;
+  margin-bottom: 10px;
+}
+
+.half-underline {
+  display: inline-block;
+  border-bottom: solid;
+  padding-bottom: 10px;
+  border-width: 4px;
+  width: 20%;
+  margin-bottom: 20px;
+  border-color: #203239;
+}
+
+.bottom-pane {
+  width: 97%;
+  height: 61.1em;
+  margin-left: 10px;
+  margin-top: 20px;
+  background-color: white;
+}
+
+.info-content {
+  text-align: justify;
+  font-family: 'Hubballi', cursive;
+  margin-right: 20px;
+  font-size: 1.7em;
+  line-height: 30px;
+  color: #203239;
+}
+
+h3 {
+  font-family: 'Hubballi', cursive;
+  color: #203239;
+  font-size: 1.8em;
+  margin-top: 0;
+  margin-bottom: 20px;
+}
+
+h2 {
+  font-family: 'Fredoka', sans-serif;
+  font-weight: bold;
+  display: inline;
+  border-bottom: solid;
+  padding-bottom: 10px;
+  border-width: 4px;
+}
+
+h1 {
+  font-family: 'Pacifico', cursive;
+  font-weight: bolder;
+  padding-top: 60px;
+  margin: 0;
+}
+
+h4 {
+  margin: 0;
+  color: grey;
+  font-family: 'Dancing Script', cursive;
+}
+
+p {
+  margin-top: 5px;
+  margin-bottom: 5px;
+  display: block;
+  font-family: 'Rubik', sans-serif;
+}
+
+a {
+  color: inherit;
+}
